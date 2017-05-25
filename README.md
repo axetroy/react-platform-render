@@ -1,5 +1,7 @@
 # react-platform-render
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/react-platform-render.svg)](https://greenkeeper.io/)
+
 [platform](https://github.com/bestiejs/platform.js) wrapper component for react
 
 ![screenshot](https://github.com/axetroy/react-platform-render/raw/master/screenshot.PNG)
